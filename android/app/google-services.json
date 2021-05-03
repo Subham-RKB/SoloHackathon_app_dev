@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490333120334",
+    "project_id": "solohackathon",
+    "storage_bucket": "solohackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490333120334:android:c40ae28cfa27c54f5be01f",
+        "android_client_info": {
+          "package_name": "com.example.solohackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490333120334-fhk569dr53calkit2uicqv2un1n9jt8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkNFO1RnHQfTG9WXvBBmBeHBql5cCSuC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490333120334-fhk569dr53calkit2uicqv2un1n9jt8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
